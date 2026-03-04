@@ -1,0 +1,4 @@
+<IfModule mod_mime.c>
+  AddEncoding gzip .gz
+  AddEncoding br .br
+</IfModule>
